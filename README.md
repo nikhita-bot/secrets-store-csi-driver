@@ -39,6 +39,7 @@ The diagram below illustrates how Secrets Store CSI Volume works.
 ## Demo
 
 ![Secrets Store CSI Driver Demo](img/demo.gif "Secrets Store CSI Driver Azure Key Vault Provider Demo")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fsecrets-store-csi-driver.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fsecrets-store-csi-driver?ref=badge_shield)
 
 ## Usage
 
@@ -285,3 +286,7 @@ End-to-end tests automatically runs on Travis CI when a PR is submitted. If you 
 _WIP_
 
 ## Contributing
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnikhita-bot%2Fsecrets-store-csi-driver.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnikhita-bot%2Fsecrets-store-csi-driver?ref=badge_large)
